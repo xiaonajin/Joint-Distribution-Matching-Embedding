@@ -7,12 +7,12 @@ South CHina University of Technology.
 ### Citation
 If you use our codes in your research, please cite:
 
->@article{jin2020joint,
+```
+@article{jin2020joint,
   title={Joint Distribution Matching Embedding for Unsupervised Domain Adaptation},
   author={Jin, Xiaona and Yang, Xiaowei and Fu, Bo and Chen, Sentao},
   journal={Neurocomputing},
   year={2020},
   publisher={Elsevier}
 }
-
-
+```
