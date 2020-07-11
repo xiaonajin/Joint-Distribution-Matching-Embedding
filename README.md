@@ -4,7 +4,7 @@ Neurocomputing, 2020
 
 By Xiaona Jin, Xiaowei Yang, Bo Fu, Sentao Chen
 
-South CHina University of Technology.
+South China University of Technology, China
 
 ### Citation
 If you use our codes in your research, please cite:
